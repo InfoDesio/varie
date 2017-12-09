@@ -29,16 +29,10 @@
     "Corpo": "Concerto \"Storie e Tradizioni del Natale\" a cura del Coro Sing a Song e del Gruppo Teatro Sonia Bonacina",
     "Piede": "Chiesa San Giovanni Battista - Via Di Vittorio"
   },
-  {
-    "Data": "07/12/2017",
-    "Testa": "Dalle 9:00",
-    "Corpo": "Mercatini di Natale a cura de La Fenice",
-    "Piede": "P.zza Conciliazione"
-  },
-  {
+   {
     "Data": "08/12/2017",
     "Testa": "Dalle 9:00",
-    "Corpo": "Mercatini di Natale a cura de La Fenice",
+    "Corpo": "Mercatini di Natale",
     "Piede": "P.zza Conciliazione"
   },
   {
@@ -56,7 +50,7 @@
   {
     "Data": "09/12/2017",
     "Testa": "Dalle 9:00",
-    "Corpo": "Mercatini di Natale a cura de La Fenice",
+    "Corpo": "Mercatini di Natale",
     "Piede": "P.zza Conciliazione"
   },
   {
@@ -80,7 +74,7 @@
   {
     "Data": "10/12/2017",
     "Testa": "Dalle 9:00",
-    "Corpo": "Mercatini di Natale a cura de La Fenice",
+    "Corpo": "Mercatini di Natale",
     "Piede": "P.zza Conciliazione"
   },
   {
