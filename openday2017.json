@@ -1,79 +1,79 @@
 [
-  {
-    "Data": "11/01/2018",
-    "Testa": 20.3,
-    "Luogo": "Via Sciesa, 20",
-    "Corpo": "Scuola dell'Infanzia Umberto I°",
-    "Piede": "incontro genitori"
-  },
-  {
-    "Data": "13/01/2018",
-    "Testa": 10.3,
-    "Luogo": "Via Dolomiti",
-    "Corpo": "Scuola dell'Infanzia Dolomiti",
-    "Piede": "presentazione della scuola a seguire laboratori per i bambini"
-  },
-  {
-    "Data": "13/01/2018",
-    "Testa": "09:30 - 11:00",
-    "Luogo": "Via S. Pietro, 16",
-    "Corpo": "Scuola dell'Infanzia S. Teresa",
-    "Piede": "scuola aperta"
-  },
-  {
-    "Data": "13/01/2018",
-    "Testa": "09:30 - 12:00",
-    "Luogo": "Via Sciesa, 20",
-    "Corpo": "Scuola dell'Infanzia Umberto I°",
-    "Piede": "scuola aperta"
-  },
-  {
-    "Data": "13/01/2018",
-    "Testa": 9.3,
-    "Luogo": "Via Don Minzoni, 1",
-    "Corpo": "Scuola dell'Infanzia Sacro Cuore",
-    "Piede": "incontro genitori e visita alla scuola"
-  },
-  {
-    "Data": "15/01/2018",
-    "Testa": 17.3,
-    "Luogo": "Via Novara, 7",
-    "Corpo": "Scuola dell'Infanzia Comunale",
-    "Piede": "incontro per i genitori e visita alla scuola"
-  },
-  {
-    "Data": "15/01/2018",
-    "Testa": 17.3,
-    "Luogo": "P.zza Conciliazione, 9",
-    "Corpo": "Scuola dell'Infanzia S. Giuseppe",
-    "Piede": "incontro per i genitori e visita alla scuola"
-  },
-  {
-    "Data": "18/01/2018",
-    "Testa": 17.3,
-    "Luogo": "Via Tre Venezie, 7",
-    "Corpo": "Scuola dell'Infanzia S. Vincenzo",
-    "Piede": "incontro genitori e visita alla scuola"
-  },
-  {
-    "Data": "18/01/2018",
-    "Testa": 20.3,
-    "Luogo": "Via S. Apollinare, 6",
-    "Corpo": "Scuola dell'Infanzia S. Giorgio",
-    "Piede": "serata informativa per i genitori"
-  },
-  {
-    "Data": "20/01/2018",
-    "Testa": 10,
-    "Luogo": "Via Vico angolo Via Diaz, 7",
-    "Corpo": "Scuola dell'Infanzia S. Maria",
-    "Piede": "presentazione della scuola a seguire laboratori per i bambini"
-  },
-  {
-    "Data": "27/01/2018",
-    "Testa": "09:30 - 12:30",
-    "Luogo": "Via Due Palme, 2",
-    "Corpo": "Scuola dell'Infanzia Pio XI",
-    "Piede": "scuola aperta"
-  }
+ {
+   "Data": "11/01/2018",
+   "Testa": "20.30",
+   "Luogo": "Via Sciesa, 20",
+   "Corpo": "Scuola dell'Infanzia Umberto I°",
+   "Piede": "incontro genitori"
+ },
+ {
+   "Data": "13/01/2018",
+   "Testa": "10.30",
+   "Luogo": "Via Dolomiti",
+   "Corpo": "Scuola dell'Infanzia Dolomiti",
+   "Piede": "presentazione della scuola a seguire laboratori per i bambini"
+ },
+ {
+   "Data": "13/01/2018",
+   "Testa": "09:30 - 11:00",
+   "Luogo": "Via S. Pietro, 16",
+   "Corpo": "Scuola dell'Infanzia S. Teresa",
+   "Piede": "scuola aperta"
+ },
+ {
+   "Data": "13/01/2018",
+   "Testa": "09:30 - 12:00",
+   "Luogo": "Via Sciesa, 20",
+   "Corpo": "Scuola dell'Infanzia Umberto I°",
+   "Piede": "scuola aperta"
+ },
+ {
+   "Data": "13/01/2018",
+   "Testa": "9.30",
+   "Luogo": "Via Don Minzoni, 1",
+   "Corpo": "Scuola dell'Infanzia Sacro Cuore",
+   "Piede": "incontro genitori e visita alla scuola"
+ },
+ {
+   "Data": "15/01/2018",
+   "Testa": "17.30",
+   "Luogo": "Via Novara, 7",
+   "Corpo": "Scuola dell'Infanzia Comunale",
+   "Piede": "incontro per i genitori e visita alla scuola"
+ },
+ {
+   "Data": "15/01/2018",
+   "Testa": "17.30",
+   "Luogo": "P.zza Conciliazione, 9",
+   "Corpo": "Scuola dell'Infanzia S. Giuseppe",
+   "Piede": "incontro per i genitori e visita alla scuola"
+ },
+ {
+   "Data": "18/01/2018",
+   "Testa": "17.30",
+   "Luogo": "Via Tre Venezie, 7",
+   "Corpo": "Scuola dell'Infanzia S. Vincenzo",
+   "Piede": "incontro genitori e visita alla scuola"
+ },
+ {
+   "Data": "18/01/2018",
+   "Testa": "20.30",
+   "Luogo": "Via S. Apollinare, 6",
+   "Corpo": "Scuola dell'Infanzia S. Giorgio",
+   "Piede": "serata informativa per i genitori"
+ },
+ {
+   "Data": "20/01/2018",
+   "Testa": "10.00",
+   "Luogo": "Via Vico angolo Via Diaz, 7",
+   "Corpo": "Scuola dell'Infanzia S. Maria",
+   "Piede": "presentazione della scuola a seguire laboratori per i bambini"
+ },
+ {
+   "Data": "27/01/2018",
+   "Testa": "09:30 - 12:30 ",
+   "Luogo": "Via Due Palme, 2",
+   "Corpo": "Scuola dell'Infanzia Pio XI",
+   "Piede": "scuola aperta"
+ }
 ]
